@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-security/commit/4cb3a45c45a6bbe3beb1dd02b895b53cd7c7f4c1",
       "git:hexsha": "4cb3a45c45a6bbe3beb1dd02b895b53cd7c7f4c1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-security/commit/25407c84cad0d8863c223c7f60df75b1afae4287",
